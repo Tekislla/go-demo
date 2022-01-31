@@ -1,5 +1,6 @@
-# Go test
-Golang test:
+# Go demo
+
+Golang demo:
   - API
   - Consumes another API
   - Use PostgreSQL
